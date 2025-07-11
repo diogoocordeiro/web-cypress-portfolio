@@ -1,0 +1,35 @@
+# Dependências do Node
+node_modules/
+
+# Logs do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração de ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Arquivos de build ou distribuição
+dist/
+build/
+
+# Arquivos temporários ou de cache
+.temp/
+.cache/
+*.tmp
+*.log
+
+# Arquivos de IDE (ex: VS Code)
+.vscode/
+.idea/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração específicos do usuário
+*.local
